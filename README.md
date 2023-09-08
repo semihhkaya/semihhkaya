@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Semih Kaya</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Jr. Software Developer</h3>
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align = "sol">
